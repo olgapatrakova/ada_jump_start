@@ -1,4 +1,4 @@
-# Generate email addresses for students
+# Generate student accounts. Hash version
 student_data = Array.new
 5.times do |i|
   student_data[i] = Hash.new

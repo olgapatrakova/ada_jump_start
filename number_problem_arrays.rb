@@ -1,3 +1,4 @@
+# Numbers program. Show min, max and average for numbers entered by a user. Compare each number with the last number entered
 puts "\nLet's play a numbers game. How many numbers would you like to enter?
 "
 # Ask a user to enter a control number and positive integers

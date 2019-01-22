@@ -1,3 +1,4 @@
+# Virtual candy machine
 puts "\nWelcome to Ada Developers Academy's Computer Candy Machine!
 (All candy provided is virtual.)"
 print "\nHow much money do ya got? > $"

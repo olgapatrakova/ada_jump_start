@@ -1,4 +1,4 @@
-# Simulate elections
+# Simulate elections using hashes
 puts "\nWelcome to my election voting program.
 
 Election candidates are: Daenerys, Cersei, Jon\n\n"

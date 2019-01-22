@@ -1,4 +1,4 @@
-# Simulate elections
+# Simulate elections. Accept input from the user and output the winner of the election
 puts "\nWelcome to my election voting program.
 
 Election candidates are: Daenerys, Cersei, Jon\n\n"

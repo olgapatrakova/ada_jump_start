@@ -1,4 +1,4 @@
-# Numbers program
+# Numbers program. Show how many times a number appeared in user input and among randomly generated numbers using 2 different hashes.
 # Create the first hash with arrays as a value
 numbers = Hash.new
 random_numbers = Array.new

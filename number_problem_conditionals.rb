@@ -1,3 +1,4 @@
+# Numbers program. Show if the user input greater than, equal to or less than 20
 puts "\nThis program will ask you to enter numbers and share if the number is less than 20."
 print "Enter the 1st number: "
 # Ask the user to enter the 1st number and compare it to 20

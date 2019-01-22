@@ -1,4 +1,4 @@
-# Ask a user to enter 3 numbers
+# Numbers program. Add 20 to each of the three numbers entered by a user
 puts "\nI will ask you to enter 3 positive integers and then will add 20 to them."
 print "Type a positive integer: "
 positive_integer1 = gets.to_i

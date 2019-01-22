@@ -1,4 +1,4 @@
-# Generate email addresses for students
+# Generate student accounts. Array version
 puts "\nLet's make a student account generator."
 names = Array.new
 id_numbers = Array.new

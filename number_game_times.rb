@@ -1,3 +1,4 @@
+# Numbers program. Inform if the number entered by a user is divisible by 3
 puts "\nLet's play a numbers game. How many numbers would you like to enter?"
 # Get the control number from a user
 control_number = gets.chomp.to_i
