@@ -1,5 +1,7 @@
 # ADA JumpStart curriculum
+
 by Olga Patrakova
+
 |Filename|Descirption|
 |--------|-----------|
 |positive_integer.rb|Numbers program. Add 20 to each of the three numbers entered by a user|
